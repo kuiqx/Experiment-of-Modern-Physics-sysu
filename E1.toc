@@ -1,11 +1,11 @@
 \contentsline {subsection}{\numberline {1}实验报告注意事项}{2}{subsection.0.1}%
-\contentsline {section}{预习报告}{2}{Item.6}%
+\contentsline {section}{预习报告}{3}{Item.6}%
 \contentsline {subsection}{\numberline {1}实验目的}{3}{subsection.1.1}%
 \contentsline {subsection}{\numberline {2}实验用具}{3}{subsection.1.2}%
 \contentsline {subsection}{\numberline {3}原理概述}{3}{subsection.1.3}%
 \contentsline {subsection}{\numberline {4}实验前思考题}{3}{subsection.1.4}%
 \contentsline {subsubsection}{\numberline {4.1}实验目的一}{3}{subsubsection.1.4.1}%
-\contentsline {paragraph}{答：}{3}{paragraph*.2}%
+\contentsline {paragraph}{答：}{4}{paragraph*.2}%
 \contentsline {paragraph}{答：}{4}{paragraph*.3}%
 \contentsline {paragraph}{答：}{4}{paragraph*.4}%
 \contentsline {paragraph}{答：}{4}{paragraph*.5}%
@@ -18,36 +18,42 @@
 \contentsline {subsubsection}{\numberline {4.3}实验目的 3 之电磁测量}{6}{subsubsection.1.4.3}%
 \contentsline {paragraph}{答：}{6}{paragraph*.11}%
 \contentsline {paragraph}{答：}{6}{paragraph*.12}%
-\contentsline {paragraph}{答：}{6}{paragraph*.13}%
+\contentsline {paragraph}{答：}{7}{paragraph*.13}%
 \contentsline {paragraph}{答：}{7}{paragraph*.15}%
-\contentsline {paragraph}{答：}{7}{paragraph*.17}%
+\contentsline {paragraph}{答：}{8}{paragraph*.17}%
 \contentsline {paragraph}{答：}{8}{paragraph*.19}%
 \contentsline {paragraph}{答：}{8}{paragraph*.20}%
 \contentsline {paragraph}{答：}{8}{paragraph*.21}%
 \contentsline {paragraph}{答：}{8}{paragraph*.22}%
-\contentsline {paragraph}{答：}{8}{paragraph*.23}%
-\contentsline {section}{实验记录}{9}{paragraph*.23}%
-\contentsline {subsection}{\numberline {1}科学问题选题}{9}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2}实验内容、步骤、结果}{9}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.1}题一步骤}{9}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2}题二步骤}{9}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {3}实验过程遇到的问题}{10}{subsection.2.3}%
-\contentsline {paragraph}{}{10}{paragraph*.24}%
-\contentsline {paragraph}{}{10}{paragraph*.25}%
-\contentsline {paragraph}{}{10}{paragraph*.26}%
-\contentsline {section}{分析与讨论}{11}{paragraph*.26}%
-\contentsline {subsection}{\numberline {1}分析与讨论}{11}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {1.1}实验操作分析}{11}{subsubsection.3.1.1}%
-\contentsline {paragraph}{short}{11}{paragraph*.27}%
-\contentsline {paragraph}{磁化率与温度变化关系（升温与降温）}{12}{paragraph*.30}%
-\contentsline {paragraph}{}{13}{paragraph*.32}%
-\contentsline {paragraph}{}{13}{paragraph*.33}%
-\contentsline {paragraph}{}{13}{paragraph*.34}%
+\contentsline {paragraph}{答：}{9}{paragraph*.23}%
+\contentsline {section}{实验记录}{10}{paragraph*.23}%
+\contentsline {subsection}{\numberline {1}科学问题选题}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2}实验内容、步骤、结果}{10}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.1}题一步骤}{10}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2}题二步骤}{10}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {3}实验过程遇到的问题}{11}{subsection.2.3}%
+\contentsline {paragraph}{}{11}{paragraph*.24}%
+\contentsline {paragraph}{}{11}{paragraph*.25}%
+\contentsline {paragraph}{}{11}{paragraph*.26}%
+\contentsline {section}{分析与讨论}{12}{paragraph*.26}%
+\contentsline {subsection}{\numberline {1}分析与讨论}{12}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {1.1}实验操作与数据处理和分析}{12}{subsubsection.3.1.1}%
+\contentsline {paragraph}{short}{12}{paragraph*.27}%
+\contentsline {paragraph}{磁化率与温度变化关系（升温与降温）}{13}{paragraph*.30}%
+\contentsline {paragraph}{信号处理}{13}{paragraph*.31}%
+\contentsline {paragraph}{}{14}{paragraph*.33}%
+\contentsline {paragraph}{}{14}{paragraph*.34}%
 \contentsline {paragraph}{}{14}{paragraph*.35}%
-\contentsline {paragraph}{short}{14}{paragraph*.36}%
-\contentsline {subsubsection}{\numberline {1.2}本实验如何判断待测样品是否超导？提示：超导体的两个基本特性是 什么？}{14}{subsubsection.3.1.2}%
-\contentsline {paragraph}{答:}{14}{paragraph*.37}%
-\contentsline {subsubsection}{\numberline {1.3}本实验如何判断待测样品的超导态是否热力学状态？ }{14}{subsubsection.3.1.3}%
-\contentsline {paragraph}{答：}{14}{paragraph*.38}%
-\contentsline {subsubsection}{\numberline {1.4}在磁化率定标前，如何把测量次级线圈的电压信号转换为磁化率（相同的量纲）}{14}{subsubsection.3.1.4}%
-\contentsline {section}{\numberline {A}贡献说明}{15}{appendix.A}%
+\contentsline {paragraph}{}{15}{paragraph*.36}%
+\contentsline {paragraph}{}{15}{paragraph*.37}%
+\contentsline {paragraph}{short}{15}{paragraph*.38}%
+\contentsline {subsubsection}{\numberline {1.2}科学问题1：超导现象是否历史相关（如先降温后加场或先加场后降温）？}{15}{subsubsection.3.1.2}%
+\contentsline {paragraph}{}{16}{paragraph*.41}%
+\contentsline {subsubsection}{\numberline {1.3}科学问题2:外磁场如何影响超导转变时磁化率随温度的关系[包括（ $T_{c}$）和抗磁性（($\tilde {\chi }$) ]？}{16}{subsubsection.3.1.3}%
+\contentsline {paragraph}{}{16}{paragraph*.42}%
+\contentsline {subsubsection}{\numberline {1.4}本实验如何判断待测样品是否超导？提示：超导体的两个基本特性是 什么？}{17}{subsubsection.3.1.4}%
+\contentsline {paragraph}{答:}{17}{paragraph*.44}%
+\contentsline {subsubsection}{\numberline {1.5}本实验如何判断待测样品的超导态是否热力学状态？ }{17}{subsubsection.3.1.5}%
+\contentsline {paragraph}{答：}{17}{paragraph*.45}%
+\contentsline {subsubsection}{\numberline {1.6}在磁化率定标前，如何把测量次级线圈的电压信号转换为磁化率（相同的量纲）}{18}{subsubsection.3.1.6}%
+\contentsline {section}{\numberline {A}贡献说明}{18}{appendix.A}%
