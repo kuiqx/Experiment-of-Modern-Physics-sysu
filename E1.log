@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.7)  13 APR 2022 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.7)  15 APR 2022 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1261,14 +1261,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [10]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.64723pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.64723pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
-
-[11]
 File: ./png/q1.png Graphic file (type bmp)
 <./png/q1.png>
 
@@ -1279,18 +1271,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
+[11]
+File: ./png/2.png Graphic file (type bmp)
+<./png/2.png>
+File: ./png/6.png Graphic file (type bmp)
+<./png/6.png>
+File: ./png/8.png Graphic file (type bmp)
+<./png/8.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
 [12]
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 488.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\not' on input line 488.
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 488.
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1307,21 +1316,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
-[14] (./E1.aux)
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[15] (./E1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
 Package rerunfilecheck Info: File `E1.out' has not changed.
-(rerunfilecheck)             Checksum: 99F747C8CA855F6AD329E72C6FDFCD87;3952.
+(rerunfilecheck)             Checksum: AD4A6C90AAC419DCAF14036F9DE0FFD8;2906.
  ) 
 Here is how much of TeX's memory you used:
- 36456 strings out of 478126
- 801074 string characters out of 5853228
- 1083237 words of memory out of 5000000
- 56450 multiletter control sequences out of 15000+600000
+ 36484 strings out of 478126
+ 801789 string characters out of 5853228
+ 1084138 words of memory out of 5000000
+ 56476 multiletter control sequences out of 15000+600000
  503720 words of font info for 110 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 89i,11n,97p,1184b,1114s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,97p,1184b,1102s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on E1.pdf (14 pages).
+Output written on E1.pdf (15 pages).
