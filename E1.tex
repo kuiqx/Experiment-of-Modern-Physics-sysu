@@ -298,25 +298,17 @@ innerrightmargin=10pt,
 \end{enumerate}
 
 \subsection{实验用具}
-\begin{table}[H]
-    \begin{center}
-        \begin{tabular}{|c|c|c|m{12cm}|}
-            \hline
-            编号 & 仪器用具名称 & 数量 & 主要参数 \\
-            \hline
-            \instrument{循环制冷剂}{1}{} % \instrument{名称}{数目}{参数}
-            \instrument{高温超导陶瓷}{1}{$YBa_2Cu_3O_7$-?陶瓷样品}
-            \instrument{磁场系统}{1}{EM3 电磁铁+ P10-40 电源}
-        \end{tabular}
-        %\caption{<Caption>}
-    \end{center}
-\end{table}
-
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.0\linewidth]{./png/z1.png}
+\end{figure}
 
 \subsection{原理概述}
-见实验讲义
-
+\includepdfmerge{./png/E1.pdf,3}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.0\linewidth]{./png/z2.png}
+\end{figure}
 \subsection{实验前思考题}
 \subsubsection{实验目的一}
 \begin{enumerate}
@@ -575,6 +567,13 @@ $ \chi $为磁化率
     \end{tabular}
     \caption{Path 2}
 \end{table}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.0\linewidth]{./png/q3.png}
+    \caption{横轴温度（T-K）由热敏电阻阻值表示。
+        从图像可直观看出，两条路径基本重合，说明超导现象与历史无关。不重合部分的测量误差主要来源于温度变化过快导致测温点来不及和样品达到热平衡。
+    }
+\end{figure}
 
 \paragraph*{}超导体具有零电阻效应和迈斯纳效应。本实验观察迈斯纳效应即在磁场强度低于临界值的情况下，磁力线无法穿过超导体，超导体内部磁场为零的现象。
 不同磁场大小下，分别升温和降温的临界温度近似相同，而磁化率大小有区别。原因可能是样品并非理想第二类超导体。晶阵缺陷的存在，阻碍着磁通线的运动。
@@ -593,12 +592,13 @@ R值波动范围在$21-22.1\mu V$之间，可认为不变。
 \begin{figure}[H]
     \centering
     \includegraphics[width=1.\linewidth]{./png/10.png}
-
+    \caption{图为不同磁场大小下，磁化率随温度变化曲线。其中电流为3A时曲线有较大波动的原因可能为机械振动、磁滞。}
 \end{figure}
-可以看到超导转变发生在90-83K之间，样品的磁化率有着较大变化，对于施加的不同数值的外磁场，可以看到，随着施加外磁场的增强，超导转变温度、临界温度和零电阻温度也变
+\paragraph{}在磁场强度一定且小于下临界磁场Hc1时，随着温度降低，II 类超导体先由正常态变为混合态，然后进入迈斯纳态。随着磁场变大，处于混合态的温度间隔越大（这可以通过在相图中作水平线看出）也即磁场强度越大，磁化率转变越缓慢，转变的温度间隔越大。
+\paragraph{}可以看到超导转变发生在90-83K之间，样品的磁化率有着较大变化，对于施加的不同数值的外磁场，可以看到，随着施加外磁场的增强，超导转变温度、临界温度和零电阻温度也变
 低。原理上来说，从热力学的角度看，温度和磁场的增加都使超导态的自由能增加，从而降低超导态的稳定性
 甚至破坏超导电性;温度、磁场三者同时与超导存在竞争的关系。 因此，外加磁场较大时有更低的临界温
-度，实验结果符合理论的预期
+度，实验结果符合理论的预期。
 \subsubsection{本实验如何判断待测样品是否超导？提示：超导体的两个基本特性是
     什么？}
 \paragraph{答:} 超导的两个特性有
@@ -607,10 +607,40 @@ R值波动范围在$21-22.1\mu V$之间，可认为不变。
     \item 超导材料处于超导态时，只要外加磁场不超过一定值，磁力线不能透入，超导材料内的磁场恒为零.
 \end{enumerate}
 
-\subsubsection{本实验如何判断待测样品的超导态是否热力学状态？ }
-\paragraph{答：} 在本次实验中我们使用的是
-\subsubsection{在磁化率定标前，如何把测量次级线圈的电压信号转换为磁化率（相同的量纲）}
-
+\subsubsection{交流磁化率的实部和虚部分别代表什么？ (有关 YBa2Cu3O7- 高温超导体的交流磁
+    化率的讨论，见参考文献 1) }
+\paragraph{答：} 交流磁化率：
+$$\widetilde{\chi}  =\chi^{'}-i\chi^{''}=(\frac{1}{u}\frac{shu+sinu}{chu+cosu}-1 )-i(\frac{1}{u}\frac{shu-sinu}{chu+cos u}  )  $$
+$$ u =\frac{d }{\delta}=\sqrt{\frac{w}{\rho}\frac{\mu_{0}d^{2}}{2}  } $$
+其中$ \delta $为磁场的趋肤深度，$ \rho $ 为电阻率，与磁场温度相关$\rho=\rho(T,H)$,$ \omega $
+交流磁场圆频率。所以交流磁化率和磁场温度直接关联。如果圆频率一定, 电阻率趋近于零时, 趋肤深度
+$ \delta \to 0 $则$ \chi^{'}\to -1 $  表示样品接近完全抗磁体，即交流磁化率实部的大小反映了磁屏蔽能力, 此即为测量零电阻转变的原理。此外, 电阻率趋近于零 时,
+虚部也趋近于零, 基本上没有能量损耗，这是因为交流场几乎完全被样品所排斥, 不能进入样品；
+假如电阻率很大 (或圆频率小, 或样品小) ,样品几乎没有抗磁性, 与此同时, 虚部$ \chi^{''} \to 0$也基本没有能量损耗, 这是因为电阻率大时样品内几乎没有感应涡电流, 磁场穿透了样品，实 际上, 当
+$\delta > d$时，交流磁化率已经很小，几乎不随电阻率变化而变化
+\subsubsection{ 在磁化率定标前，如何把测量次级线圈的电压信号转换为磁化率（相同的量纲）？}
+\paragraph{答：}对于两对完全一样的半桥，其中一对线圈为空，另一对线圈插入样品，其差分电动势输出为
+$$ \Delta \widetilde{\epsilon_{2}}=k_{1}k_{2}\mu_{0}\widetilde{\chi}\frac{\partial \widehat{I_{1}}}{\partial t}  $$
+差分电动势与样品的交流磁化率成正比。次级线圈组输出的差分电压信号等于输出电动势。
+$$ \Delta \widetilde{\epsilon_{2}}\cong V_{2}e^{i(\omega t +\theta)}$$
+对于超导样品，当发生超导转变时，样品的磁化率实部 $ \chi^{'} $ 从 0 变为-1，虚部不变。会导致差分信号的变化，或幅值绝对值的增加。
+$$ \widetilde{\chi} =\frac{1}{k_{1}k_{2}\mu_{0}}\frac{V_{2}}{C\omega V_{0}}[\cos(\theta-\theta_{I}-\frac{\pi}{2})+i\sin(\theta-\theta_{I}-\frac{\pi}{2})]    $$
+$k_{1}k_{2}$是未知常数，C =0.1 (A/V)，频率为 10 Hz-100 kHz 的交流稳定电流，频率和电流的大小通过压控信号的大小和频率控制。
+\subsubsection{ 超导带材应用时大电流所产生的（自）磁场沿什么方向？它与实验台上施加的磁场
+    方向是否相同？哪个对超导电性的破坏力更大？为什么？（实验目的 3） }
+\paragraph{答：}
+带材产生的磁场为垂直于实验台方向。与施加的磁场方向垂直。
+\paragraph{}带材大电流产生的磁场对超导电性破坏力更大。增加频率时，损耗随频率增大而增大，达到峰值后随频率增大而减小。
+\subsubsection{请在分析环节推导非理想线圈（$R \neq 0$）以及非对称半桥线圈组的差分输出信号与样
+    品的交流磁化率的关系；并就非理想线圈和非对称所造成的系统误差进行分析。（实
+    验目的 3）
+}
+\paragraph{答：}由于两个不完全对称的非理想线圈。会造成幅值和相位一定程度上的偏差，将$\Delta \widetilde{\epsilon}=Ve^{i(\omega t + \theta)}$
+.$\widetilde{I_{1}}= CV_{1}e^{i(\omega t + \theta_{1}+\theta_{I})}$,$\widetilde{I_{2}}= CV_{2}e^{i(\omega t + \theta_{2}+\theta_{I})}$
+带入会有$$
+    \widetilde{\chi}=\frac{1}{k_{1}k^{'}_{2}\mu_{0}}\frac{V}{C\omega V_{2}}exp[i(\theta -\theta_{I}-\theta_{1}-\frac{\pi}{2})]+\frac{k_{2}V_{1}}{k^{'}_{2}V_{2}}exp[i(\theta_{2}-\theta_{1})] -1$$
+与原式对比会有
+$$ \widetilde{\chi} =\frac{1}{k_{1}k_{2}\mu_{0}}\frac{V_{2}}{C\omega V_{0}}[\cos(\theta-\theta_{I}-\frac{\pi}{2})+isin(\theta-\theta_{I}-\frac{\pi}{2})]    $$
 
 
 % \newpage

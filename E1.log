@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.7)  15 APR 2022 18:36
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.7)  17 APR 2022 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1175,7 +1175,9 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
 
 (./E1.toc [1
 
-])
+]
+Missing character: There is no  ("F064) in font ec-lmr10!
+)
 \tf@toc=\write5
 \openout5 = `E1.toc'.
 
@@ -1188,6 +1190,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [2]
+File: ./png/z1.png Graphic file (type bmp)
+<./png/z1.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1196,6 +1201,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [3]
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf, page 3>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf, page 3>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1204,17 +1218,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [4]
-Missing character: There is no κ ("3BA) in font ec-lmr10!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.64723pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.64723pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
-
-[5]
-File: ./be/1.jpg Graphic file (type bmp)
-<./be/1.jpg>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf, page 3>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf, page 3>
+File: ./png/E1.pdf Graphic file (type pdf)
+<use ./png/E1.pdf, page 3>
+ [5]
+File: ./png/z2.png Graphic file (type bmp)
+<./png/z2.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1224,11 +1236,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [6]
-File: ./be/2.jpg Graphic file (type bmp)
-<./be/2.jpg>
-File: ./be/3.jpg Graphic file (type bmp)
-<./be/3.jpg>
-
+Missing character: There is no κ ("3BA) in font ec-lmr10!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1245,6 +1253,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [8]
+File: ./be/1.jpg Graphic file (type bmp)
+<./be/1.jpg>
+File: ./be/2.jpg Graphic file (type bmp)
+<./be/2.jpg>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1253,6 +1266,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [9]
+File: ./be/3.jpg Graphic file (type bmp)
+<./be/3.jpg>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1269,6 +1285,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[13]
 File: ./png/q1.png Graphic file (type bmp)
 <./png/q1.png>
 
@@ -1279,8 +1311,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 493--498
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 485--490
 
  []
 
@@ -1297,61 +1329,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 521--523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 523--524
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.64723pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.64723pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
-
-[14]
-Missing character: There is no θ ("3B8) in font ec-lmr10!
-Missing character: There is no θ ("3B8) in font ec-lmr10!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.64723pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.64723pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
-
 [15]
+Underfull \hbox (badness 10000) in paragraph at lines 513--515
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 591.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 591.
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 591.
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 591.
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
 
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 591.
-
-File: ./png/10.png Graphic file (type bmp)
-<./png/10.png>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1360,6 +1352,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
 [16]
+Missing character: There is no θ ("3B8) in font ec-lmr10!
+Missing character: There is no θ ("3B8) in font ec-lmr10!
+File: ./png/q3.png Graphic file (type bmp)
+<./png/q3.png>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.64723pt, for example:
@@ -1375,21 +1371,94 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
 
-[18] (./E1.aux)
+[18]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 590.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 590.
+
+File: ./png/10.png Graphic file (type bmp)
+<./png/10.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[20]
+Missing character: There is no  ("F064) in font ec-lmbx10!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[21]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 637.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\not' on input line 637.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 637.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.64723pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.64723pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.64723pt}.
+
+[22] (./E1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
-Package rerunfilecheck Info: File `E1.out' has not changed.
-(rerunfilecheck)             Checksum: 81EE61B732B381C4F76BAE153CE6D582;3691.
+
+Package rerunfilecheck Warning: File `E1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `E1.out':
+(rerunfilecheck)             Before: 4FB607D48284BA289C955C85E89425B1;5329
+(rerunfilecheck)             After:  28DD195780FA3E2A56F1836FDCC7DC51;5329.
  ) 
 Here is how much of TeX's memory you used:
- 36493 strings out of 478126
- 801932 string characters out of 5853228
- 1082935 words of memory out of 5000000
- 56484 multiletter control sequences out of 15000+600000
+ 36575 strings out of 478126
+ 805866 string characters out of 5853228
+ 1086585 words of memory out of 5000000
+ 56563 multiletter control sequences out of 15000+600000
  503720 words of font info for 110 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 89i,12n,97p,1184b,1114s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,17n,97p,1184b,1112s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on E1.pdf (18 pages).
+Output written on E1.pdf (22 pages).
